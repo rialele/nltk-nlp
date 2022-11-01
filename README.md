@@ -3,7 +3,7 @@ This repo is saved to document my learnings in NLTK
 
 ### Important things to keep in mind-
 
-NLTK It has a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum. 
+NLTK has a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum. 
  
 ### Important Concepts- 
 Bigrams: Tokens of 2 consecutive written words.</br>
