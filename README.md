@@ -1,7 +1,7 @@
 # NLTK-Learning
 This repo is saved to document my learnings in NLTK
 
-### Important things to keep in mind-
+### Overview-
 
 NLTK has a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum. 
  
